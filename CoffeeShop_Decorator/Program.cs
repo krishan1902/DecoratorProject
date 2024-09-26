@@ -7,8 +7,7 @@ namespace CoffeeShop_Decorator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Kaffee Automat - Krishan, Isma\n");
-            Console.WriteLine("extra Milch kostet 60 Cent\nextra Zucker kostet 40 Cent\nextra Kakaopulver kostet 50 Cent\n\n");
+            Console.WriteLine("Decorator Design Pattern - Kaffee Beispiel - Krishan, Isma\n");
 
             //Schwarzer Kaffee
             Kaffee schwarzerKaffee = new SchwarzerKaffee();
@@ -27,10 +26,11 @@ namespace CoffeeShop_Decorator
             Console.WriteLine($"{schwarzerKaffeeKakao.getDescription()}\t\t = {schwarzerKaffeeKakao.getPrice()} Euro.");
 
             //Schwarzer Kaffee mit Milch, Zucker und Kakaopulver
-            Kaffee schwarzerKaffeeAllMilch = new MilchDecorator(schwarzerKaffee);
-            Kaffee schwarzerKaffeeAllZucker = new ZuckerDecorator(schwarzerKaffeeAllMilch);
-            Kaffee schwarzerKaffeeAllKakao = new KakaoDecorator(schwarzerKaffeeAllZucker);
-            Console.WriteLine($"\n{schwarzerKaffeeAllKakao.getDescription()}\t = {schwarzerKaffeeAllKakao.getPrice()} Euro.");
+            Kaffee kaffeeMitAlles = new SchwarzerKaffee();
+            kaffeeMitAlles = new MilchDecorator(kaffeeMitAlles);
+            kaffeeMitAlles = new ZuckerDecorator(kaffeeMitAlles);
+            kaffeeMitAlles = new KakaoDecorator(kaffeeMitAlles);
+            Console.WriteLine($"\n{kaffeeMitAlles.getDescription()}\t = {kaffeeMitAlles.getPrice()} Euro.");
 
         }
     }

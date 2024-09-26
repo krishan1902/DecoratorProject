@@ -12,7 +12,6 @@ namespace CoffeeShop_Decorator
         public SchwarzerKaffee()
         {
             this.description = "Schwarzer Kaffee";
-            this.price = 1;
         }
 
         public override string getDescription()
@@ -22,7 +21,7 @@ namespace CoffeeShop_Decorator
 
         public override double getPrice()
         {
-            return this.price;
+            return 1;
         }
     }
 }
