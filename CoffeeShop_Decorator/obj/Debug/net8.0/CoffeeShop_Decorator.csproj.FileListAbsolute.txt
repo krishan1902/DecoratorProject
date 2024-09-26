@@ -1,0 +1,28 @@
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.exe
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.deps.json
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.runtimeconfig.json
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.dll
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.pdb
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.AssemblyInfoInputs.cache
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.AssemblyInfo.cs
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.csproj.CoreCompileInputs.cache
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.dll
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\refint\CoffeeShop_Decorator.dll
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.pdb
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.genruntimeconfig.cache
+C:\01 4AHINF\01 POS\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\ref\CoffeeShop_Decorator.dll
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.exe
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.deps.json
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.runtimeconfig.json
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.dll
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\bin\Debug\net8.0\CoffeeShop_Decorator.pdb
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.AssemblyInfoInputs.cache
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.AssemblyInfo.cs
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.csproj.CoreCompileInputs.cache
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.dll
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\refint\CoffeeShop_Decorator.dll
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.pdb
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\CoffeeShop_Decorator.genruntimeconfig.cache
+C:\01 4AHINF\CoffeeShop_Decorator\CoffeeShop_Decorator\obj\Debug\net8.0\ref\CoffeeShop_Decorator.dll
